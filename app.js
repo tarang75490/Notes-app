@@ -3,8 +3,6 @@
 // fs.appendFileSync('notes1.txt','I live in jabalpur')
 //overwrites the content each time we run this
 
-
-
 //const na = require('./utils.js')
 // Console.log(na(3,4))
 const validator = require('validator')  
